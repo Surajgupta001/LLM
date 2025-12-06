@@ -1,3 +1,6 @@
 importlib
 tiktoken
 torch
+gensim
+numpy
+torch
