@@ -4,3 +4,4 @@ torch
 gensim
 numpy
 torch
+matplotlib
