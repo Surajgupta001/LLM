@@ -9,6 +9,7 @@ dependencies:
   - numpy
   - matplotlib
   - gensim
+  - nomkl
   - pip
   - pip:
       - torch
