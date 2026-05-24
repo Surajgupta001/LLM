@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights
+*.pth
+
+# GPT-2 checkpoint files
+*.ckpt.*
+checkpoint
+
+# GPT2 folder
+LLM - 31/gpt2/
+
+# Optional large text/data
+*.bin
+
+# OS files
+.DS_Store
+Thumbs.db
