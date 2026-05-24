@@ -1,0 +1,10 @@
+numpy
+matplotlib
+gensim
+nomkl
+tqdm
+torch
+tiktoken
+tensorflow
+requests
+pandas
