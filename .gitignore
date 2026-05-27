@@ -13,7 +13,7 @@ __pycache__/
 checkpoint
 
 # GPT2 folder
-LLM - 31/gpt2/
+gpt2/
 
 # Optional large text/data
 *.bin
