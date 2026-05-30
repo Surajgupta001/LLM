@@ -22,3 +22,6 @@ sms_spam_collection/
 # OS files
 .DS_Store
 Thumbs.db
+
+# ZIP files
+*.zip
